@@ -1,3 +1,1 @@
-# EE321 P4 Code
-
-Find the code [here](../..//blob/main/main.m).
+# [Find The EE321 P4 Code Here](../..//blob/main/main.m)
